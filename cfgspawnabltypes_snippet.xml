@@ -1,0 +1,88 @@
+<!-- Code snippet to be copied and pasted into your cfgspawnabletyples xml file to give you an NPC at a custom location -->
+
+<type name="SurvivorM_Mirek">
+    <attachments>
+        <item name="MilitaryBeret_CDF" />
+    </attachments>
+    <attachments>
+        <item name="NVGHeadstrap" />
+    </attachments>
+    <attachments>
+        <item name="BDUJacket" />
+    </attachments>
+    <attachments>
+        <item name="BDUPants" />
+    </attachments>
+    <attachments>
+        <item name="MilitaryBoots_Black" />
+    </attachments>
+    <attachments>
+        <item name="HighCapacityVest_Black" />
+    </attachments>
+    <attachments>
+        <item name="NylonKnifeSheath" />
+    </attachments>
+    <attachments>
+        <item name="CombatKnife" />
+    </attachments>
+    <attachments>
+        <item name="AliceBag_Black" />
+    </attachments>
+    <attachments>
+        <item name="TacticalGloves_Beige" />
+    </attachments>
+    <attachments>
+        <item name="MilitaryBelt" />
+    </attachments>
+<attachments>
+        <item name="M4A1_Green" />
+    </attachments>
+    <attachments>
+        <item name="M4_CQBBttstck" />
+    </attachments>
+    <attachments>
+        <item name="M4_RISHndgrd_Green" />
+    </attachments>
+    <attachments>
+        <item name="M4_Suppressor" />
+    </attachments>
+    <attachments>
+        <item name="ACOGOptic" />
+    </attachments>
+    <attachments>
+        <item name="Sword" />
+    </attachments>
+    <attachments>
+        <item name="Mag_STANAGCoupled_30Rnd" />
+    </attachments>
+    <attachments>
+        <item name="FNX45" />
+    </attachments>
+    <attachments>
+        <item name="Mag_FNX45_15Rnd" />
+    </attachments>
+    <attachments>
+        <item name="RDG2SmokeGrenade_Black" />
+    </attachments>
+    <attachments>
+        <item name="RDG2SmokeGrenade_Black" />
+    </attachments>
+    <attachments>
+        <item name="RGD5Grenade" />
+    </attachments>
+<attachments>
+        <item name="RGD5Grenade" />
+    </attachments>
+    <attachments>
+        <item name="BloodTestKit" />
+    </attachments>
+    <attachments>
+        <item name="Bandage" />
+    </attachments>
+    <attachments>
+        <item name="Rice" />
+    </attachments>
+    <attachments>
+        <item name="SodaCan_Cola" />
+    </attachments>
+</type>
